@@ -1,5 +1,5 @@
 # Parallel-K-Clique
-Contain Parallel implementation of listing K-Clique problem
+Contain Parallel implementation of listing K-Clique problem.
 It implementes the algorithm discussed in the following paper
 https://oanabalalau.com/pdf/kcliques.pdf
 
